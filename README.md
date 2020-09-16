@@ -15,3 +15,4 @@ and the timer will not disappear until it stops (in this case, a new worklog wil
 3)the initial time values on the timeline (in the modal window) are shifted to the
 left of the form and only when one of the sliders moves, they fall into place
 4)if on the timeline you release the holding of the mouse button before the cursor stops, the mark will eventually take an incorrect position
+5) the timer stop button on the worklog simply stops the timer and closes the timer window, without the appearance of modal windows and saving the results, on the one hand it can be convenient if the timer was started by mistake and in order not to delete it, you can simply click on this button and the timer result  will reset, on the other hand - not knowing this possibility can be critical in the work
