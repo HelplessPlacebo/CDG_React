@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb2deb22b31e87db54bcf17d268b4fc3",
+    "revision": "d824f6540d3072335ab5728546a736f5",
     "url": "/CDG_React/index.html"
   },
   {
-    "revision": "0f2b2221e7accd400a12",
+    "revision": "2b74ee44a908d6c6eab3",
     "url": "/CDG_React/static/css/2.c020e8f2.chunk.css"
   },
   {
-    "revision": "99dacb368c29d2c1eef4",
-    "url": "/CDG_React/static/css/main.f331fa77.chunk.css"
+    "revision": "ae12e1c3e8f97ec3511c",
+    "url": "/CDG_React/static/css/main.3977df51.chunk.css"
   },
   {
-    "revision": "0f2b2221e7accd400a12",
-    "url": "/CDG_React/static/js/2.469fa960.chunk.js"
+    "revision": "2b74ee44a908d6c6eab3",
+    "url": "/CDG_React/static/js/2.0a8ea892.chunk.js"
   },
   {
     "revision": "4fa2a7d361f8044c67c89394f3737882",
-    "url": "/CDG_React/static/js/2.469fa960.chunk.js.LICENSE.txt"
+    "url": "/CDG_React/static/js/2.0a8ea892.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "99dacb368c29d2c1eef4",
-    "url": "/CDG_React/static/js/main.55de214a.chunk.js"
+    "revision": "ae12e1c3e8f97ec3511c",
+    "url": "/CDG_React/static/js/main.7ebbc7ad.chunk.js"
   },
   {
     "revision": "76468d91a3ac2f28d0ad",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d2bae0a2fb4375e250fbd5c7e03943d",
     "url": "/CDG_React/static/media/TT-stop-button.3d2bae0a.svg"
+  },
+  {
+    "revision": "103aa85b9a0ddcaaee4b412e6716c6ae",
+    "url": "/CDG_React/static/media/Tooltip_Close_button.103aa85b.svg"
   },
   {
     "revision": "89696082234753ee0b96c6fd344353b1",
