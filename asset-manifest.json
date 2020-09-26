@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/CDG_React/static/css/main.3977df51.chunk.css",
-    "main.js": "/CDG_React/static/js/main.7ebbc7ad.chunk.js",
-    "main.js.map": "/CDG_React/static/js/main.7ebbc7ad.chunk.js.map",
+    "main.css": "/CDG_React/static/css/main.4fd45411.chunk.css",
+    "main.js": "/CDG_React/static/js/main.4dbd51ce.chunk.js",
+    "main.js.map": "/CDG_React/static/js/main.4dbd51ce.chunk.js.map",
     "runtime-main.js": "/CDG_React/static/js/runtime-main.e68b9429.js",
     "runtime-main.js.map": "/CDG_React/static/js/runtime-main.e68b9429.js.map",
     "static/css/2.c020e8f2.chunk.css": "/CDG_React/static/css/2.c020e8f2.chunk.css",
-    "static/js/2.0a8ea892.chunk.js": "/CDG_React/static/js/2.0a8ea892.chunk.js",
-    "static/js/2.0a8ea892.chunk.js.map": "/CDG_React/static/js/2.0a8ea892.chunk.js.map",
+    "static/js/2.36a0db59.chunk.js": "/CDG_React/static/js/2.36a0db59.chunk.js",
+    "static/js/2.36a0db59.chunk.js.map": "/CDG_React/static/js/2.36a0db59.chunk.js.map",
     "index.html": "/CDG_React/index.html",
-    "precache-manifest.90216f437fc9d63a4c10cb78772bbeb0.js": "/CDG_React/precache-manifest.90216f437fc9d63a4c10cb78772bbeb0.js",
+    "precache-manifest.0427af1ddc909b1d97f6571da29107ec.js": "/CDG_React/precache-manifest.0427af1ddc909b1d97f6571da29107ec.js",
     "service-worker.js": "/CDG_React/service-worker.js",
     "static/css/2.c020e8f2.chunk.css.map": "/CDG_React/static/css/2.c020e8f2.chunk.css.map",
-    "static/css/main.3977df51.chunk.css.map": "/CDG_React/static/css/main.3977df51.chunk.css.map",
-    "static/js/2.0a8ea892.chunk.js.LICENSE.txt": "/CDG_React/static/js/2.0a8ea892.chunk.js.LICENSE.txt",
+    "static/css/main.4fd45411.chunk.css.map": "/CDG_React/static/css/main.4fd45411.chunk.css.map",
+    "static/js/2.36a0db59.chunk.js.LICENSE.txt": "/CDG_React/static/js/2.36a0db59.chunk.js.LICENSE.txt",
     "static/media/CalendarDayStatusDanger.svg": "/CDG_React/static/media/CalendarDayStatusDanger.168fb5a4.svg",
     "static/media/CalendarDayStatusOK.svg": "/CDG_React/static/media/CalendarDayStatusOK.b4118d29.svg",
     "static/media/CalendarDayStatusWarning.svg": "/CDG_React/static/media/CalendarDayStatusWarning.ccaa2bfb.svg",
@@ -24,7 +24,6 @@
     "static/media/TT-pause-button.svg": "/CDG_React/static/media/TT-pause-button.8e7efc77.svg",
     "static/media/TT-stop-button.svg": "/CDG_React/static/media/TT-stop-button.3d2bae0a.svg",
     "static/media/Tooltip_Close_button.svg": "/CDG_React/static/media/Tooltip_Close_button.103aa85b.svg",
-    "static/media/active-issue-more-button.svg": "/CDG_React/static/media/active-issue-more-button.89696082.svg",
     "static/media/arrow-up.svg": "/CDG_React/static/media/arrow-up.0dc941bd.svg",
     "static/media/avatar.svg": "/CDG_React/static/media/avatar.462c6cf4.svg",
     "static/media/calendar.svg": "/CDG_React/static/media/calendar.daeb1a9d.svg",
@@ -45,13 +44,15 @@
     "static/media/stop_button.svg": "/CDG_React/static/media/stop_button.1eb1b96f.svg",
     "static/media/stroke_horiz.svg": "/CDG_React/static/media/stroke_horiz.2e15c5b7.svg",
     "static/media/stroke_vert.svg": "/CDG_React/static/media/stroke_vert.437b2938.svg",
-    "static/media/warning_cp.svg": "/CDG_React/static/media/warning_cp.c2d1e025.svg"
+    "static/media/warning_cp.svg": "/CDG_React/static/media/warning_cp.c2d1e025.svg",
+    "static/media/worklogMoreButtonBG.svg": "/CDG_React/static/media/worklogMoreButtonBG.622f8f21.svg",
+    "static/media/worklogMoreVertical.svg": "/CDG_React/static/media/worklogMoreVertical.37dfcf19.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e68b9429.js",
     "static/css/2.c020e8f2.chunk.css",
-    "static/js/2.0a8ea892.chunk.js",
-    "static/css/main.3977df51.chunk.css",
-    "static/js/main.7ebbc7ad.chunk.js"
+    "static/js/2.36a0db59.chunk.js",
+    "static/css/main.4fd45411.chunk.css",
+    "static/js/main.4dbd51ce.chunk.js"
   ]
 }

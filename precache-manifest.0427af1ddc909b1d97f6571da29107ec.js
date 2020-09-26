@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d824f6540d3072335ab5728546a736f5",
+    "revision": "c221d91f0c86915f5b3c5f2642daaba0",
     "url": "/CDG_React/index.html"
   },
   {
-    "revision": "2b74ee44a908d6c6eab3",
+    "revision": "ccd7d3199be577c1ec84",
     "url": "/CDG_React/static/css/2.c020e8f2.chunk.css"
   },
   {
-    "revision": "ae12e1c3e8f97ec3511c",
-    "url": "/CDG_React/static/css/main.3977df51.chunk.css"
+    "revision": "be90f2993a9299618c4b",
+    "url": "/CDG_React/static/css/main.4fd45411.chunk.css"
   },
   {
-    "revision": "2b74ee44a908d6c6eab3",
-    "url": "/CDG_React/static/js/2.0a8ea892.chunk.js"
+    "revision": "ccd7d3199be577c1ec84",
+    "url": "/CDG_React/static/js/2.36a0db59.chunk.js"
   },
   {
     "revision": "4fa2a7d361f8044c67c89394f3737882",
-    "url": "/CDG_React/static/js/2.0a8ea892.chunk.js.LICENSE.txt"
+    "url": "/CDG_React/static/js/2.36a0db59.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae12e1c3e8f97ec3511c",
-    "url": "/CDG_React/static/js/main.7ebbc7ad.chunk.js"
+    "revision": "be90f2993a9299618c4b",
+    "url": "/CDG_React/static/js/main.4dbd51ce.chunk.js"
   },
   {
     "revision": "76468d91a3ac2f28d0ad",
@@ -66,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "103aa85b9a0ddcaaee4b412e6716c6ae",
     "url": "/CDG_React/static/media/Tooltip_Close_button.103aa85b.svg"
-  },
-  {
-    "revision": "89696082234753ee0b96c6fd344353b1",
-    "url": "/CDG_React/static/media/active-issue-more-button.89696082.svg"
   },
   {
     "revision": "0dc941bd70039d264febad7d7314b3cc",
@@ -154,5 +150,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2d1e025c85c0522d31ccf79d7e2a2f3",
     "url": "/CDG_React/static/media/warning_cp.c2d1e025.svg"
+  },
+  {
+    "revision": "622f8f21c93a26decade3690be295cbd",
+    "url": "/CDG_React/static/media/worklogMoreButtonBG.622f8f21.svg"
+  },
+  {
+    "revision": "37dfcf19a10551d31e3aa965a0e0dd9a",
+    "url": "/CDG_React/static/media/worklogMoreVertical.37dfcf19.svg"
   }
 ]);
