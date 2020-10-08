@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d32a97ed9ee6f17a01bd64ae81b51c5",
+    "revision": "c4dcddfd8e511954ff7cdb303b3e9ba1",
     "url": "/CDG_React/index.html"
   },
   {
-    "revision": "f9591c14a850d0e61331",
+    "revision": "e9516c9630ce355d3bf9",
     "url": "/CDG_React/static/css/2.c020e8f2.chunk.css"
   },
   {
-    "revision": "f59bc7de93cd38cd60e0",
-    "url": "/CDG_React/static/css/main.5719d432.chunk.css"
+    "revision": "f9127c8b5b54af3de383",
+    "url": "/CDG_React/static/css/main.1dd0a35c.chunk.css"
   },
   {
-    "revision": "f9591c14a850d0e61331",
-    "url": "/CDG_React/static/js/2.de420ed4.chunk.js"
+    "revision": "e9516c9630ce355d3bf9",
+    "url": "/CDG_React/static/js/2.fba9c40a.chunk.js"
   },
   {
     "revision": "4fa2a7d361f8044c67c89394f3737882",
-    "url": "/CDG_React/static/js/2.de420ed4.chunk.js.LICENSE.txt"
+    "url": "/CDG_React/static/js/2.fba9c40a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f59bc7de93cd38cd60e0",
-    "url": "/CDG_React/static/js/main.e4257d36.chunk.js"
+    "revision": "f9127c8b5b54af3de383",
+    "url": "/CDG_React/static/js/main.a3642b68.chunk.js"
   },
   {
     "revision": "76468d91a3ac2f28d0ad",
@@ -44,18 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CDG_React/static/media/CalendarDayStatusWarning.ccaa2bfb.svg"
   },
   {
-    "revision": "a07d91313a86fff4635d8126f7f76b3c",
-    "url": "/CDG_React/static/media/Cyan.a07d9131.svg"
-  },
-  {
-    "revision": "47285204347acdb19f807084d9fa57db",
-    "url": "/CDG_React/static/media/Orange.47285204.svg"
-  },
-  {
-    "revision": "f1ff4eee46d1d958bf2c154ad677a860",
-    "url": "/CDG_React/static/media/Purple.f1ff4eee.svg"
-  },
-  {
     "revision": "9feb0110b6dff9ee2b9ebd17f7a1aee6",
     "url": "/CDG_React/static/media/Roboto-Regular.9feb0110.woff2"
   },
@@ -66,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d2bae0a2fb4375e250fbd5c7e03943d",
     "url": "/CDG_React/static/media/TT-stop-button.3d2bae0a.svg"
-  },
-  {
-    "revision": "103aa85b9a0ddcaaee4b412e6716c6ae",
-    "url": "/CDG_React/static/media/Tooltip_Close_button.103aa85b.svg"
   },
   {
     "revision": "0dc941bd70039d264febad7d7314b3cc",
@@ -84,14 +68,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CDG_React/static/media/calendar.daeb1a9d.svg"
   },
   {
-    "revision": "daeb1a9d1f1a5473f187b8c4ab09098b",
-    "url": "/CDG_React/static/media/calendar_active.daeb1a9d.svg"
-  },
-  {
-    "revision": "aea2c3bfdbe55ce3d7a33b3a46b060f4",
-    "url": "/CDG_React/static/media/calendar_gray.aea2c3bf.svg"
-  },
-  {
     "revision": "8d55a97670fa4f1bb45e115d38a27741",
     "url": "/CDG_React/static/media/confirmButton.8d55a976.svg"
   },
@@ -100,16 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CDG_React/static/media/danger_cp.49659e50.svg"
   },
   {
-    "revision": "9823975fa5eef853ef2c52acc9050ce1",
-    "url": "/CDG_React/static/media/declineButton.9823975f.svg"
-  },
-  {
     "revision": "ffe979f7d0ef19050b1788dc5aa7cdfa",
     "url": "/CDG_React/static/media/door.ffe979f7.svg"
-  },
-  {
-    "revision": "07db24c65c0907d57119b856e7e538ec",
-    "url": "/CDG_React/static/media/download.07db24c6.svg"
   },
   {
     "revision": "ee54e2c244cce12be134faaa6ca6c2b8",
@@ -126,14 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f9fec951617f9bffd07127f39b18e6f4",
     "url": "/CDG_React/static/media/play-button.f9fec951.svg"
-  },
-  {
-    "revision": "07aaae672aa6bd633d5158f135f5be8a",
-    "url": "/CDG_React/static/media/second_icon.07aaae67.svg"
-  },
-  {
-    "revision": "ec52537ee4e6fc553fc659a1f01aef8f",
-    "url": "/CDG_React/static/media/separator-line.ec52537e.svg"
   },
   {
     "revision": "6677f6c8c8d6230c0361b9ac3b64d44f",
