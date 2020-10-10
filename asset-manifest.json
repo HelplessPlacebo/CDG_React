@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/CDG_React/static/css/main.1dd0a35c.chunk.css",
-    "main.js": "/CDG_React/static/js/main.a3642b68.chunk.js",
-    "main.js.map": "/CDG_React/static/js/main.a3642b68.chunk.js.map",
+    "main.css": "/CDG_React/static/css/main.0a182987.chunk.css",
+    "main.js": "/CDG_React/static/js/main.12336e48.chunk.js",
+    "main.js.map": "/CDG_React/static/js/main.12336e48.chunk.js.map",
     "runtime-main.js": "/CDG_React/static/js/runtime-main.e68b9429.js",
     "runtime-main.js.map": "/CDG_React/static/js/runtime-main.e68b9429.js.map",
     "static/css/2.c020e8f2.chunk.css": "/CDG_React/static/css/2.c020e8f2.chunk.css",
-    "static/js/2.fba9c40a.chunk.js": "/CDG_React/static/js/2.fba9c40a.chunk.js",
-    "static/js/2.fba9c40a.chunk.js.map": "/CDG_React/static/js/2.fba9c40a.chunk.js.map",
+    "static/js/2.96b46d0e.chunk.js": "/CDG_React/static/js/2.96b46d0e.chunk.js",
+    "static/js/2.96b46d0e.chunk.js.map": "/CDG_React/static/js/2.96b46d0e.chunk.js.map",
     "index.html": "/CDG_React/index.html",
-    "precache-manifest.d1e1180a6423faeb8208bfce0f42ffe1.js": "/CDG_React/precache-manifest.d1e1180a6423faeb8208bfce0f42ffe1.js",
+    "precache-manifest.95c37bd41db6cbcb315b8202bddbbfca.js": "/CDG_React/precache-manifest.95c37bd41db6cbcb315b8202bddbbfca.js",
     "service-worker.js": "/CDG_React/service-worker.js",
     "static/css/2.c020e8f2.chunk.css.map": "/CDG_React/static/css/2.c020e8f2.chunk.css.map",
-    "static/css/main.1dd0a35c.chunk.css.map": "/CDG_React/static/css/main.1dd0a35c.chunk.css.map",
-    "static/js/2.fba9c40a.chunk.js.LICENSE.txt": "/CDG_React/static/js/2.fba9c40a.chunk.js.LICENSE.txt",
+    "static/css/main.0a182987.chunk.css.map": "/CDG_React/static/css/main.0a182987.chunk.css.map",
+    "static/js/2.96b46d0e.chunk.js.LICENSE.txt": "/CDG_React/static/js/2.96b46d0e.chunk.js.LICENSE.txt",
     "static/media/ActiveWorklogBG.svg": "/CDG_React/static/media/ActiveWorklogBG.215a57fc.svg",
     "static/media/CalendarDayStatusDanger.svg": "/CDG_React/static/media/CalendarDayStatusDanger.168fb5a4.svg",
     "static/media/CalendarDayStatusOK.svg": "/CDG_React/static/media/CalendarDayStatusOK.b4118d29.svg",
@@ -42,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.e68b9429.js",
     "static/css/2.c020e8f2.chunk.css",
-    "static/js/2.fba9c40a.chunk.js",
-    "static/css/main.1dd0a35c.chunk.css",
-    "static/js/main.a3642b68.chunk.js"
+    "static/js/2.96b46d0e.chunk.js",
+    "static/css/main.0a182987.chunk.css",
+    "static/js/main.12336e48.chunk.js"
   ]
 }
