@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfd366167e738b87b0ba9b58f61ebbc4",
+    "revision": "18a70541c5f50e89ed9f0904c97629c2",
     "url": "/CDG_React/index.html"
   },
   {
-    "revision": "760b46669be4690e21d7",
-    "url": "/CDG_React/static/css/2.c020e8f2.chunk.css"
+    "revision": "53d96b960a0029b217d8",
+    "url": "/CDG_React/static/css/2.5d4c5e9a.chunk.css"
   },
   {
-    "revision": "34326dd80c8378395f51",
-    "url": "/CDG_React/static/css/main.d90093ac.chunk.css"
+    "revision": "125515a9fedfdaec51e5",
+    "url": "/CDG_React/static/css/main.c35c789c.chunk.css"
   },
   {
-    "revision": "760b46669be4690e21d7",
-    "url": "/CDG_React/static/js/2.99ea35fe.chunk.js"
+    "revision": "53d96b960a0029b217d8",
+    "url": "/CDG_React/static/js/2.67387f79.chunk.js"
   },
   {
-    "revision": "4fa2a7d361f8044c67c89394f3737882",
-    "url": "/CDG_React/static/js/2.99ea35fe.chunk.js.LICENSE.txt"
+    "revision": "4ecaa40e4add53672175656839844d1a",
+    "url": "/CDG_React/static/js/2.67387f79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34326dd80c8378395f51",
-    "url": "/CDG_React/static/js/main.138051b9.chunk.js"
+    "revision": "125515a9fedfdaec51e5",
+    "url": "/CDG_React/static/js/main.572d97be.chunk.js"
   },
   {
     "revision": "76468d91a3ac2f28d0ad",
@@ -68,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CDG_React/static/media/calendar.daeb1a9d.svg"
   },
   {
+    "revision": "25bc857eaa69f3d72d4b65a6644e8953",
+    "url": "/CDG_React/static/media/clock4_gupsy_test.25bc857e.jpg"
+  },
+  {
     "revision": "8d55a97670fa4f1bb45e115d38a27741",
     "url": "/CDG_React/static/media/confirmButton.8d55a976.svg"
   },
@@ -102,14 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1eb1b96f76c8da38135e69f2f8b98fb7",
     "url": "/CDG_React/static/media/stop_button.1eb1b96f.svg"
-  },
-  {
-    "revision": "2e15c5b7a63e8cfe36b363e37bc4b1bb",
-    "url": "/CDG_React/static/media/stroke_horiz.2e15c5b7.svg"
-  },
-  {
-    "revision": "437b293842dd1949f53e8d0faf05f43b",
-    "url": "/CDG_React/static/media/stroke_vert.437b2938.svg"
   },
   {
     "revision": "c2d1e025c85c0522d31ccf79d7e2a2f3",
