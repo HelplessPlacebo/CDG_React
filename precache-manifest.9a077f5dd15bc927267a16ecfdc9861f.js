@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aaff24644a031e56ec92592c8cc706ee",
+    "revision": "f7a90cec6901cd53a54a36769cdf7d10",
     "url": "/CDG_React/index.html"
   },
   {
-    "revision": "b8907920f2eff047fcbd",
+    "revision": "51aefbc46ff0721ef8e5",
     "url": "/CDG_React/static/css/2.5d4c5e9a.chunk.css"
   },
   {
-    "revision": "a277a08067cc974988ea",
-    "url": "/CDG_React/static/css/main.9065733c.chunk.css"
+    "revision": "1e6c6e625b14d61e9f9b",
+    "url": "/CDG_React/static/css/main.d6382429.chunk.css"
   },
   {
-    "revision": "b8907920f2eff047fcbd",
-    "url": "/CDG_React/static/js/2.7dc1977b.chunk.js"
+    "revision": "51aefbc46ff0721ef8e5",
+    "url": "/CDG_React/static/js/2.45d1ae76.chunk.js"
   },
   {
     "revision": "4ecaa40e4add53672175656839844d1a",
-    "url": "/CDG_React/static/js/2.7dc1977b.chunk.js.LICENSE.txt"
+    "url": "/CDG_React/static/js/2.45d1ae76.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a277a08067cc974988ea",
-    "url": "/CDG_React/static/js/main.5e701757.chunk.js"
+    "revision": "1e6c6e625b14d61e9f9b",
+    "url": "/CDG_React/static/js/main.e7c60992.chunk.js"
   },
   {
     "revision": "76468d91a3ac2f28d0ad",
@@ -60,16 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CDG_React/static/media/arrow-up.0dc941bd.svg"
   },
   {
-    "revision": "462c6cf416c7caf6c1cffd86412a66cb",
-    "url": "/CDG_React/static/media/avatar.462c6cf4.svg"
-  },
-  {
     "revision": "daeb1a9d1f1a5473f187b8c4ab09098b",
     "url": "/CDG_React/static/media/calendar.daeb1a9d.svg"
-  },
-  {
-    "revision": "25bc857eaa69f3d72d4b65a6644e8953",
-    "url": "/CDG_React/static/media/clock4_gupsy_test.25bc857e.jpg"
   },
   {
     "revision": "8d55a97670fa4f1bb45e115d38a27741",
@@ -78,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "49659e507dbe61bd91bdcd5d481e5821",
     "url": "/CDG_React/static/media/danger_cp.49659e50.svg"
-  },
-  {
-    "revision": "ffe979f7d0ef19050b1788dc5aa7cdfa",
-    "url": "/CDG_React/static/media/door.ffe979f7.svg"
   },
   {
     "revision": "ee54e2c244cce12be134faaa6ca6c2b8",
@@ -98,10 +86,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f9fec951617f9bffd07127f39b18e6f4",
     "url": "/CDG_React/static/media/play-button.f9fec951.svg"
-  },
-  {
-    "revision": "6677f6c8c8d6230c0361b9ac3b64d44f",
-    "url": "/CDG_React/static/media/settings.6677f6c8.svg"
   },
   {
     "revision": "1eb1b96f76c8da38135e69f2f8b98fb7",
