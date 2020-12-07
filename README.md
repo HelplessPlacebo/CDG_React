@@ -1,2 +1,2 @@
-login : test
+email : test
 password : test
