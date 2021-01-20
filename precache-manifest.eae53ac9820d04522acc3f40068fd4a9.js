@@ -1,31 +1,59 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88f5769006f5bb43df7d94b7f38a9f4d",
+    "revision": "de7bce8b9e33baf20c31d5a3e73cb27d",
     "url": "/CDG_React/index.html"
   },
   {
-    "revision": "7b07bb758efec6b1aac6",
-    "url": "/CDG_React/static/css/2.5d4c5e9a.chunk.css"
+    "revision": "6b0d9e0f1879016badd3",
+    "url": "/CDG_React/static/css/4.5d4c5e9a.chunk.css"
   },
   {
-    "revision": "1ca4b93d0636e27dca55",
-    "url": "/CDG_React/static/css/main.8c96e24f.chunk.css"
+    "revision": "820fb1c4b5054026cc87",
+    "url": "/CDG_React/static/css/5.e3d96180.chunk.css"
   },
   {
-    "revision": "7b07bb758efec6b1aac6",
-    "url": "/CDG_React/static/js/2.79fe9257.chunk.js"
+    "revision": "d6f9c2fdb969baf6c2c8",
+    "url": "/CDG_React/static/css/main.75ee3925.chunk.css"
+  },
+  {
+    "revision": "afc891d7685bec5b58b0",
+    "url": "/CDG_React/static/js/2.e83b1820.chunk.js"
   },
   {
     "revision": "4ecaa40e4add53672175656839844d1a",
-    "url": "/CDG_React/static/js/2.79fe9257.chunk.js.LICENSE.txt"
+    "url": "/CDG_React/static/js/2.e83b1820.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ca4b93d0636e27dca55",
-    "url": "/CDG_React/static/js/main.bd6b1cdd.chunk.js"
+    "revision": "019d545f9ef01cdf8430",
+    "url": "/CDG_React/static/js/3.b9bc6527.chunk.js"
   },
   {
-    "revision": "76468d91a3ac2f28d0ad",
-    "url": "/CDG_React/static/js/runtime-main.e68b9429.js"
+    "revision": "6b0d9e0f1879016badd3",
+    "url": "/CDG_React/static/js/4.15f0d3c0.chunk.js"
+  },
+  {
+    "revision": "820fb1c4b5054026cc87",
+    "url": "/CDG_React/static/js/5.9934e460.chunk.js"
+  },
+  {
+    "revision": "5fcb962cf96f6883b71c",
+    "url": "/CDG_React/static/js/6.c0d572d1.chunk.js"
+  },
+  {
+    "revision": "3a6684eb837206402f3f",
+    "url": "/CDG_React/static/js/7.84a05bca.chunk.js"
+  },
+  {
+    "revision": "a34e9049c7368ed1bd83",
+    "url": "/CDG_React/static/js/8.5002b5b3.chunk.js"
+  },
+  {
+    "revision": "d6f9c2fdb969baf6c2c8",
+    "url": "/CDG_React/static/js/main.b448e9c9.chunk.js"
+  },
+  {
+    "revision": "17bd4d651014c2c05952",
+    "url": "/CDG_React/static/js/runtime-main.d3ca5b17.js"
   },
   {
     "revision": "215a57fc3f486e76b936f2e2ca7ede07",
